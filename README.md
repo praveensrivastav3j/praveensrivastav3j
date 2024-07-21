@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveensrivastav3j
-- 👀 I’m interested in Writing as i am PRofessional Writer published my own Books
+- 👀 I’m interested in Writing as i am Professional Writer published my own 5 Books
 - 🌱 I’m currently learning Salesforce
 - 📫 To reach me on Instagram : _praveensrivastav_ 
 - ⚡ Fun fact: I have Bachelor's in Mechanical Engineering but currrently working as a Full Stack Developer
